@@ -12,7 +12,7 @@ I am a Computer Science student at OsloMet – Oslo Metropolitan University, wit
 </p>
 
 ---
-## 🛠️ Teknologier og Verktøy
+## 🛠️ Tecnologies and tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -33,7 +33,7 @@ I am a Computer Science student at OsloMet – Oslo Metropolitan University, wit
 
 ---
 
-## 💼 Hva jeg gjør
+## 💼 What i do now
 
 <!-- DETALJERT BESKRIVELSE AV FERDIGHETER, JOBB, PROSJEKTER, INTERESSER -->
 <!-- Eksempel:
@@ -49,7 +49,7 @@ Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE H
 
 
 
-## 📊 GitHub Statistikk
+## 📊 GitHub Stats
 
 <!-- GITHUB-STATS, COMMITS, SPRÅK OSV. -->
 <!-- Sørg for å bytte ut DITTBRUKERNAVN med ditt faktiske GitHub-brukernavn -->
@@ -73,7 +73,7 @@ Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE H
 
 ---
 
-## 🧠 Hva jeg lærer nå / Nysgjerrig på
+## 🧠 What i am learning and what i am curious about
 
 <!-- KORT OM TEKNOLOGIER, KONSEPTER ELLER KURS DU FOKUSERER PÅ -->
 Akkurat nå dykker jeg dypere ned i:
@@ -85,7 +85,7 @@ Jeg er alltid åpen for å lære nye ting, så tips mottas med takk!
 
 ---
 
-## 🌱 Mine Prosjekter / Open Source Bidrag
+## 🌱 My projects
 
 <!-- FREMHEV SPESIFIKKE REPOS MED LENKER -->
 <!-- Du kan bruke GitHub Readme Stats' "Pinned Gists/Repos" funksjon,
