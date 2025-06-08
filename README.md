@@ -1,9 +1,8 @@
 ## 👋 Hey, I am Didrik Røssum Jensen!
 I am a Computer Science student at OsloMet – Oslo Metropolitan University, with a growing interest in Artificial Intelligence (AI) and understanding the intricate workings of complex computing systems. My current academic journey is equipping me with skills in algorithms and data structures, data networks and cloud services, operating systems, and foundational programming, and I'm keen to apply these to real-world challenges.
 <p align="center">
-  <img src="https://gpvc.arturio.dev/didrikjensen" alt="Profile views">
-  <!-- Du kan legge til flere badges her, f.eks. LinkedIn, Twitter -->
-  <a href="https://www.linkedin.com/in/didrik-jensen-07b16828a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/didrik-røssum-jensen-07b16828a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
