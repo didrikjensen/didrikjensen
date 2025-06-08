@@ -149,12 +149,3 @@ Ta gjerne kontakt:
 </div>
 <div align="center">
 ---
-
-<!-- Husk å legge denne filen i et spesielt repository som heter det samme som ditt GitHub-brukernavn. -->
-<!-- For eksempel, hvis brukernavnet ditt er "okteto", skal repositoryet hete "okteto" og filen "README.md". -->
-  <a href="didrikrossumjensen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/didrik-jensen-07b16828a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
