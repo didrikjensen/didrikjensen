@@ -7,21 +7,6 @@ I am a Computer Science student at OsloMet – Oslo Metropolitan University, wit
 </p>
 
 ---
-
-## 💼 Hva jeg gjør
-
-<!-- DETALJERT BESKRIVELSE AV FERDIGHETER, JOBB, PROSJEKTER, INTERESSER -->
-<!-- Eksempel:
-Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE HOVEDOPPGAVER]. Jeg trives best når jeg kan jobbe på tvers av stacken, fra idé til ferdig produkt.
-
-- 🔭 Jeg jobber for tiden med [PROSJEKTNAVN] - et spennende prosjekt som [KORT BESKRIVELSE].
-- 🌱 Jeg er spesielt interessert i [OMRÅDE 1], [OMRÅDE 2] og [OMRÅDE 3].
-- 🤔 Jeg ser etter hjelp med [HVIS AKTUELT].
-- 💬 Spør meg om [TEMA DU KAN MYE OM].
--->
-
----
-
 ## 🛠️ Teknologier og Verktøy
 
 <!-- LOGO-BADGES ELLER IKONER FOR SPRÅK, RAMMEVERK OG TOOLS -->
@@ -43,6 +28,22 @@ Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE H
 </p>
 
 ---
+
+## 💼 Hva jeg gjør
+
+<!-- DETALJERT BESKRIVELSE AV FERDIGHETER, JOBB, PROSJEKTER, INTERESSER -->
+<!-- Eksempel:
+Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE HOVEDOPPGAVER]. Jeg trives best når jeg kan jobbe på tvers av stacken, fra idé til ferdig produkt.
+
+- 🔭 Jeg jobber for tiden med [PROSJEKTNAVN] - et spennende prosjekt som [KORT BESKRIVELSE].
+- 🌱 Jeg er spesielt interessert i [OMRÅDE 1], [OMRÅDE 2] og [OMRÅDE 3].
+- 🤔 Jeg ser etter hjelp med [HVIS AKTUELT].
+- 💬 Spør meg om [TEMA DU KAN MYE OM].
+-->
+
+---
+
+
 
 ## 📊 GitHub Statistikk
 
