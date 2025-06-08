@@ -1,9 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-<div align="center">
-  ## 👋 Hei, jeg er Didrik Røssum Jensen!
+## 👋 Hei, jeg er Didrik Røssum Jensen!
 
 <!-- KORT OG FENGENDE INTRODUKSJON -->
 <!-- Eksempel: Fullstack-utvikler med en lidenskap for å bygge intuitive brukergrensesnitt og robuste backend-løsninger. Alltid nysgjerrig på ny teknologi og hvordan den kan løse reelle problemer. -->
@@ -148,6 +143,11 @@ Ta gjerne kontakt:
 - 🎶 Musikk er min følgesvenn når jeg koder: [SJANGER/ARTIST].
 - ⚡ Fun fact: [NOE MORSOMT ELLER OVERRASKENDE OM DEG].
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+<div align="center">
 ---
 
 <!-- Husk å legge denne filen i et spesielt repository som heter det samme som ditt GitHub-brukernavn. -->
