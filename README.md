@@ -1,7 +1,5 @@
-## 👋 Hei, jeg er Didrik Røssum Jensen!
-
-<!-- KORT OG FENGENDE INTRODUKSJON -->
-<!-- Eksempel: Fullstack-utvikler med en lidenskap for å bygge intuitive brukergrensesnitt og robuste backend-løsninger. Alltid nysgjerrig på ny teknologi og hvordan den kan løse reelle problemer. -->
+## 👋 Hey, I am Didrik Røssum Jensen!
+I am a Computer Science student at OsloMet – Oslo Metropolitan University, with a growing interest in Artificial Intelligence (AI) and understanding the intricate workings of complex computing systems. My current academic journey is equipping me with skills in algorithms and data structures, data networks and cloud services, operating systems, and foundational programming, and I'm keen to apply these to real-world challenges.
 <p align="center">
   <img src="https://gpvc.arturio.dev/didrikjensen" alt="Profile views">
   <!-- Du kan legge til flere badges her, f.eks. LinkedIn, Twitter -->
