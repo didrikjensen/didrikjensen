@@ -3,14 +3,14 @@
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
 <div align="center">
-  # 👋 Hei, jeg er [DITT NAVN HER]!
+  # 👋 Hei, jeg er Didrik Røssum Jensen!
 
 <!-- KORT OG FENGENDE INTRODUKSJON -->
 <!-- Eksempel: Fullstack-utvikler med en lidenskap for å bygge intuitive brukergrensesnitt og robuste backend-løsninger. Alltid nysgjerrig på ny teknologi og hvordan den kan løse reelle problemer. -->
 <p align="center">
-  <img src="https://gpvc.arturio.dev/DITTBRUKERNAVN" alt="Profile views">
+  <img src="https://gpvc.arturio.dev/didrikjensen" alt="Profile views">
   <!-- Du kan legge til flere badges her, f.eks. LinkedIn, Twitter -->
-  <a href="https://linkedin.com/in/DINLINKEDINPROFIL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/didrik-jensen-07b16828a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- <a href="https://twitter.com/DITTTWITTERNAVN" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 </p>
 
@@ -57,15 +57,15 @@ Jeg er en [DIN ROLLE] hos [DITT SELSKAP/PROSJEKT] hvor jeg fokuserer på [DINE H
 <!-- GITHUB-STATS, COMMITS, SPRÅK OSV. -->
 <!-- Sørg for å bytte ut DITTBRUKERNAVN med ditt faktiske GitHub-brukernavn -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DITTBRUKERNAVN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DITTBRUKERNAVN&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=didrikjensen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didrikjensen&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DITTBRUKERNAVN&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didrikjensen&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DITTBRUKERNAVN&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=didrikjensen&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 <!-- For flere temaer og tilpasninger, se:
