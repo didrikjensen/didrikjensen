@@ -1,10 +1,3 @@
-<!--
-**Tips for Customization:**
-- Replace `didrikjensen` with your actual GitHub username everywhere.
-- Update the links to your projects and social media profiles.
-- Add your own projects in the "My Projects" section.
--->
-
 <div align="center">
 
   <!-- Introduction with a personal touch -->
@@ -14,14 +7,13 @@
   </h1>
   
   <p>
-    <strong>Data Engineering Student at OsloMet | Machine Learning Enthusiast | Competitive Runner</strong>
+    <strong>Data Engineering Student at OsloMet | Competitive Track and Field Athlete</strong>
   </p>
   
   <p>
     I'm fascinated by the intersection of data, algorithms, and human performance. Just as I analyze lap times and heart rate data to optimize my running, I'm passionate about dissecting complex datasets to build efficient and intelligent software solutions. I thrive when I can dive deep into technical challenges, translating theory into practical, value-creating code.
   </p>
 
-  <!-- Contact badges -->
   <p>
     <a href="https://www.linkedin.com/in/didrik-røssum-jensen-07b16828a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -73,18 +65,18 @@ Right now, I'm diving deeper into:
 </table>
 
 ---
-
+<!--
 ### <p align="center">🌱 My Projects</p>
 Here are some of the projects I'm proud of. Feel free to explore the code and documentation!
 
-<!-- PROJECT 1: Replace with your own project -->
+<!-- PROJECT 1: Replace with your own project 
 <p align="center">
   <a href="LINK_TO_YOUR_PROJECT_1" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=didrikjensen&repo=YOUR_REPO_NAME_1&theme=radical&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=22a39f" alt="Project 1">
   </a>
 </p>
 
-<!-- PROJECT 2: Replace with your own project -->
+<!-- PROJECT 2: Replace with your own project
 <p align="center">
   <a href="LINK_TO_YOUR_PROJECT_2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=didrikjensen&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=22a39f" alt="Project 2">
@@ -106,4 +98,5 @@ Here are some of the projects I'm proud of. Feel free to explore the code and do
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=didrikjensen&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
   </a>
-</p>
+</p>-->
+
